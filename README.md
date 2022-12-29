@@ -1,4 +1,4 @@
-# Simple FakeNews Classifer
+# :newspaper: Simple FakeNews Classifer :newspaper:
 Sebuah model machine learning yang dapat membedakan apakah sebuah berita itu palsu atau tidak menggunakan teknik NLP
 
 ## Description
